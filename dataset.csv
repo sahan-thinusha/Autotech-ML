@@ -1,0 +1,270 @@
+car_make,car_model,part_name,repair_time_in_hours
+Toyota,Corolla,Brake Pad Replacement,2.5
+Toyota,Corolla,Oil Change,1
+Toyota,Corolla,Transmission Repair,4
+Toyota,Camry,Brake Pad Replacement,3
+Toyota,Camry,Oil Change,1.5
+Toyota,Camry,Transmission Repair,5
+Toyota,RAV4,Brake Pad Replacement,2.5
+Toyota,RAV4,Oil Change,1
+Toyota,RAV4,Transmission Repair,4.5
+Toyota,Highlander,Brake Pad Replacement,3.5
+Toyota,Highlander,Oil Change,1.5
+Toyota,Highlander,Transmission Repair,5.5
+Toyota,Prius,Brake Pad Replacement,2
+Toyota,Prius,Oil Change,1
+Toyota,Prius,Transmission Repair,3
+Honda,Civic,Brake Pad Replacement,2
+Honda,Civic,Oil Change,0.5
+Honda,Civic,Transmission Repair,3.5
+Honda,Accord,Brake Pad Replacement,2.5
+Honda,Accord,Oil Change,1
+Honda,Accord,Transmission Repair,4
+Honda,CR-V,Brake Pad Replacement,2.5
+Honda,CR-V,Oil Change,1
+Honda,CR-V,Transmission Repair,4.5
+Honda,Pilot,Brake Pad Replacement,3
+Honda,Pilot,Oil Change,1.5
+Honda,Pilot,Transmission Repair,5
+Nissan,Altima,Brake Pad Replacement,2.5
+Nissan,Altima,Oil Change,1
+Nissan,Altima,Transmission Repair,4
+Nissan,Maxima,Brake Pad Replacement,3
+Nissan,Maxima,Oil Change,1.5
+Nissan,Maxima,Transmission Repair,5
+Nissan,Sentra,Brake Pad Replacement,2
+Nissan,Sentra,Oil Change,1
+Nissan,Sentra,Transmission Repair,3.5
+Nissan,Rogue,Brake Pad Replacement,2.5
+Nissan,Rogue,Oil Change,1
+Nissan,Rogue,Transmission Repair,4.5
+Ford,Fusion,Brake Pad Replacement,2.5
+Ford,Fusion,Oil Change,1
+Ford,Fusion,Transmission Repair,4
+Ford,Taurus,Brake Pad Replacement,3
+Ford,Taurus,Oil Change,1.5
+Ford,Taurus,Transmission Repair,5
+Ford,Explorer,Brake Pad Replacement,3.5
+Ford,Explorer,Oil Change,1.5
+Ford,Explorer,Transmission Repair,5.5
+Ford,F-150,Brake Pad Replacement,2
+Ford,F-150,Oil Change,1
+Ford,F-150,Transmission Repair,3
+Chevrolet,Cruze,Brake Pad Replacement,2
+Chevrolet,Cruze,Oil Change,1
+Chevrolet,Cruze,Transmission Repair,3.5
+Chevrolet,Malibu,Brake Pad Replacement,2.5
+Chevrolet,Malibu,Oil Change,1
+Chevrolet,Malibu,Transmission Repair,4
+Chevrolet,Equinox,Brake Pad Replacement,2.5
+Ford,Fiesta,Brake Pad Replacement,2.5
+Ford,Fiesta,Oil Change,1
+Ford,Fiesta,Transmission Repair,4.5
+Ford,Focus,Brake Pad Replacement,3
+Ford,Focus,Oil Change,1.5
+Ford,Focus,Transmission Repair,5.5
+Chevrolet,Impala,Brake Pad Replacement,3
+Chevrolet,Impala,Oil Change,1.5
+Chevrolet,Impala,Transmission Repair,5
+Nissan,Altima,Brake Pad Replacement,2.5
+Nissan,Altima,Oil Change,1
+Nissan,Altima,Transmission Repair,4
+Nissan,Sentra,Brake Pad Replacement,3
+Nissan,Sentra,Oil Change,1.5
+Nissan,Sentra,Transmission Repair,5
+Hyundai,Elantra,Brake Pad Replacement,2.5
+Hyundai,Elantra,Oil Change,1
+Hyundai,Elantra,Transmission Repair,4
+Hyundai,Accent,Brake Pad Replacement,3
+Hyundai,Accent,Oil Change,1.5
+Hyundai,Accent,Transmission Repair,5
+Kia,Optima,Brake Pad Replacement,2.5
+Kia,Optima,Oil Change,1
+Kia,Optima,Transmission Repair,4
+Kia,Forte,Brake Pad Replacement,3
+Kia,Forte,Oil Change,1.5
+Kia,Forte,Transmission Repair,5
+Mazda,3,Brake Pad Replacement,2.5
+Mazda,3,Oil Change,1
+Mazda,3,Transmission Repair,4
+Mazda,6,Brake Pad Replacement,3
+Mazda,6,Oil Change,1.5
+Mazda,6,Transmission Repair,5
+Subaru,Impreza,Brake Pad Replacement,2.5
+Subaru,Impreza,Oil Change,1
+Subaru,Impreza,Transmission Repair,4
+Subaru,Legacy,Brake Pad Replacement,3
+Subaru,Legacy,Oil Change,1.5
+Subaru,Legacy,Transmission Repair,5
+BMW,3 Series,Brake Pad Replacement,3
+BMW,3 Series,Oil Change,1.5
+Mercedes-Benz,C-Class,Brake Pad Replacement,3
+Mercedes-Benz,C-Class,Oil Change,1.5
+Mercedes-Benz,C-Class,Transmission Repair,5
+Audi,A4,Brake Pad Replacement,2.5
+Audi,A4,Oil Change,1
+Audi,A4,Transmission Repair,4
+Lexus,ES,Brake Pad Replacement,2.5
+Lexus,ES,Oil Change,1
+Lexus,ES,Transmission Repair,4
+Infiniti,Q50,Brake Pad Replacement,3
+Infiniti,Q50,Oil Change,1.5
+Infiniti,Q50,Transmission Repair,5
+Volvo,S60,Brake Pad Replacement,2.5
+Volvo,S60,Oil Change,1
+Volvo,S60,Transmission Repair,4
+Cadillac,XTS,Brake Pad Replacement,3
+Cadillac,XTS,Oil Change,1.5
+Cadillac,XTS,Transmission Repair,5
+Jeep,Grand Cherokee,Brake Pad Replacement,2.5
+Jeep,Grand Cherokee,Oil Change,1
+Jeep,Grand Cherokee,Transmission Repair,4
+Dodge,Challenger,Brake Pad Replacement,3
+Dodge,Challenger,Oil Change,1.5
+Dodge,Challenger,Transmission Repair,5
+Chrysler,300,Brake Pad Replacement,2.5
+Chrysler,300,Oil Change,1
+Chrysler,300,Transmission Repair,4
+Mitsubishi,Mirage,Brake Pad Replacement,3
+Mitsubishi,Mirage,Oil Change,1.5
+Mitsubishi,Mirage,Transmission Repair,5
+Tesla,Model 3,Brake Pad Replacement,2.5
+Tesla,Model 3,Oil Change,1
+Tesla,Model 3,Transmission Repair,4
+Porsche,Panamera,Brake Pad Replacement,3
+Porsche,Panamera,Oil Change,1.5
+Porsche,Panamera,Transmission Repair,5
+Jaguar,XF,Brake Pad Replacement,2.5
+Jaguar,XF,Oil Change,1
+Jaguar,XF,Transmission Repair,4
+Land Rover,Range Rover Sport,Brake Pad Replacement,3
+Land Rover,Range Rover Sport,Oil Change,1.5
+Land Rover,Range Rover Sport,Transmission Repair,5
+Maserati,Ghibli,Brake Pad Replacement,2.5
+Maserati,Ghibli,Oil Change,1
+Maserati,Ghibli,Transmission Repair,4
+Ferrari,488 GTB,Brake Pad Replacement,3
+Ferrari,488 GTB,Oil Change,1.5
+Ferrari,488 GTB,Transmission Repair,5
+Lamborghini,Aventador,Brake Pad Replacement,2.5
+Lamborghini,Aventador,Oil Change,1
+Lamborghini,Aventador,Transmission Repair,4
+Bugatti,Veyron,Brake Pad Replacement,3
+Bugatti,Veyron,Oil Change,1.5
+Subaru,Impreza,Brake Pad Replacement,2.5
+Subaru,Impreza,Oil Change,1
+Subaru,Impreza,Transmission Repair,4
+Ford,Mustang,Brake Pad Replacement,3
+Ford,Mustang,Oil Change,1.5
+Ford,Mustang,Transmission Repair,5
+Chevrolet,Camaro,Brake Pad Replacement,2.5
+Chevrolet,Camaro,Oil Change,1
+Chevrolet,Camaro,Transmission Repair,4
+GMC,Yukon,Brake Pad Replacement,3
+GMC,Yukon,Oil Change,1.5
+GMC,Yukon,Transmission Repair,5
+Toyota,Avalon,Brake Pad Replacement,2.5
+Toyota,Avalon,Oil Change,1
+Toyota,Avalon,Transmission Repair,4
+Nissan,Altima,Brake Pad Replacement,3
+Nissan,Altima,Oil Change,1.5
+Nissan,Altima,Transmission Repair,5
+Honda,Civic,Brake Pad Replacement,2.5
+Honda,Civic,Oil Change,1
+Honda,Civic,Transmission Repair,4
+Mazda,MX-5 Miata,Brake Pad Replacement,3
+Mazda,MX-5 Miata,Oil Change,1.5
+Mazda,MX-5 Miata,Transmission Repair,5
+BMW,X3,Brake Pad Replacement,2.5
+BMW,X3,Oil Change,1
+BMW,X3,Transmission Repair,4
+Acura,MDX,Brake Pad Replacement,3
+Acura,MDX,Oil Change,1.5
+Acura,MDX,Transmission Repair,5
+Hyundai,Elantra,Brake Pad Replacement,2.5
+Hyundai,Elantra,Oil Change,1
+Hyundai,Elantra,Transmission Repair,4
+Kia,Sorento,Brake Pad Replacement,3
+Kia,Sorento,Oil Change,1.5
+Kia,Sorento,Transmission Repair,5
+Volkswagen,Jetta,Brake Pad Replacement,2.5
+Volkswagen,Jetta,Oil Change,1
+Volkswagen,Jetta,Transmission Repair,4
+Mercedes-Benz,S-Class,Brake Pad Replacement,3
+Mercedes-Benz,S-Class,Oil Change,1.5
+Mercedes-Benz,S-Class,Transmission Repair,5
+Audi,A6,Brake Pad Replacement,2.5
+Audi,A6,Oil Change,1
+Audi,A6,Transmission Repair,4
+Lexus,GS,Brake Pad Replacement,3
+Lexus,GS,Oil Change,1.5
+Lexus,GS,Transmission Repair,5
+Infiniti,Q70,Brake Pad Replacement,2.5
+Infiniti,Q70,Oil Change,1
+Infiniti,Q70,Transmission Repair,4
+Volvo,XC60,Brake Pad Replacement,3
+Volvo,XC60,Oil Change,1.5
+Volvo,XC60,Transmission Repair,5
+Toyota,Corolla,Engine oil,1.5
+Toyota,Corolla,Air filter,0.5
+Toyota,Corolla,Fuel filter,1
+Toyota,Corolla,Brake pads,2
+Toyota,Corolla,Spark plugs,1
+Toyota,Corolla,Alternator,2.5
+Toyota,Corolla,Water pump,3
+Toyota,Corolla,Radiator,2.5
+Toyota,Corolla,Battery,1.5
+Toyota,Corolla,Transmission fluid,2
+Toyota,Camry,Engine oil,1.5
+Toyota,Camry,Air filter,0.5
+Toyota,Camry,Fuel filter,1
+Toyota,Camry,Brake pads,2
+Toyota,Camry,Spark plugs,1
+Toyota,Camry,Alternator,2.5
+Toyota,Camry,Water pump,3
+Toyota,Camry,Radiator,2.5
+Toyota,Camry,Battery,1.5
+Toyota,Camry,Transmission fluid,2
+Toyota,Rav4,Engine oil,1.5
+Toyota,Rav4,Air filter,0.5
+Toyota,Rav4,Fuel filter,1
+Toyota,Rav4,Brake pads,2
+Toyota,Rav4,Spark plugs,1
+Toyota,Rav4,Alternator,2.5
+Toyota,Rav4,Water pump,3
+Toyota,Rav4,Radiator,2.5
+Toyota,Rav4,Battery,1.5
+Toyota,Rav4,Transmission fluid,2
+Toyota,Yaris,Engine oil,1.5
+Toyota,Yaris,Air filter,0.5
+Toyota,Yaris,Fuel filter,1
+Toyota,Yaris,Brake pads,2
+Toyota,Yaris,Spark plugs,1
+Toyota,Yaris,Alternator,2.5
+Toyota,Yaris,Water pump,3
+Toyota,Yaris,Radiator,2.5
+Toyota,Yaris,Battery,1.5
+Toyota,Yaris,Transmission fluid,2
+Honda,Civic,Engine oil,1.5
+Honda,Civic,Air filter,0.5
+Honda,Civic,Fuel filter,1
+Honda,Civic,Brake pads,2
+Honda,Civic,Spark plugs,1
+Honda,Civic,Alternator,2.5
+Honda,Civic,Water pump,3
+Honda,Civic,Radiator,2.5
+Honda,Civic,Battery,1.5
+Honda,Civic,Transmission fluid,2
+Honda,Accord,Engine oil,1.5
+Honda,Accord,Air filter,0.5
+Honda,Accord,Fuel filter,1
+Honda,Accord,Brake pads,2
+Honda,Accord,Spark plugs,1
+Honda,Accord,Alternator,2.5
+Honda,Accord,Water pump,3
+Honda,Accord,Radiator,2.5
+Honda,Accord,Battery,1.5
+Honda,Accord,Transmission fluid,2
+Honda,CR-V,Engine oil,1.5
+Honda,CR-V,Air filter,0.5
+Honda,CR-V,Fuel filter,1
