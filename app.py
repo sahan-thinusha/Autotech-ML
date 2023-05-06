@@ -38,4 +38,4 @@ def predict_repair_time():
     return jsonify({'estimated_repair_time': estimated_repair_time})
 
 if __name__ == '__main__':
-    app.run(debug=True, port=8082)
+app.run(host='0.0.0.0', port=8082)
